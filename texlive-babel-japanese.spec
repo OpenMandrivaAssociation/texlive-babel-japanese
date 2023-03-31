@@ -1,6 +1,6 @@
 Name:		texlive-babel-japanese
 Version:	57733
-Release:	1
+Release:	2
 Summary:	Babel support for Japanese
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-japanese
