@@ -3,7 +3,7 @@ Version:	57733
 Release:	2
 Summary:	Babel support for Japanese
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-japanese
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-japanese
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-japanese.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-japanese.doc.r%{version}.tar.xz
